@@ -7,20 +7,13 @@ draft: false
 author: "Bryan"
 authorLink: "https://linked.in/olivercodes"
 description: "My goto technical books"
-featuredImage: "/lighthouse.jpg"
 tags: ["architecture", "software engineering"]
 categories: ["reading"]
 
 lightgallery: true
 ---
 
-Greetings!
-
-To start my site off, here's the list of books I go to time and time again.
-
-Note: The links are to the books on amazon
-
-##  The List, in no particular order
+##  My Bookshelf
 
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
   - Authors: Robert Martin
