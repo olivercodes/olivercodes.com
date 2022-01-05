@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "name":"Prow owners-slash-command",
+      "url":"https://github.com/olivercodes/owners-slash-command",
+      "desc":"Gitops gate that parses Prow OWNERS"
+    },
+    {
+      "name":"terraform-helm-velero",
+      "url":"https://github.com/olivercodes/terraform-helm-velero",
+      "desc":"A terraform module that installs velero on k8s clusters"
+    },
+    {
+      "name":"dotfiles",
+      "url":"https://github.com/olivercodes/dotfiles",
+      "desc":"My dotfiles. Config for ZSH, Neovim, etc."
+    }
+  ]
+}
