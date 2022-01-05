@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivercodes</title><link>https://olivercodes.com/</link><description>Recent content on Olivercodes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>You</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My Bookshelf</title><link>https://olivercodes.com/posts/first_post/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/first_post/</guid><description>Greetings!
-To start my site off, here&amp;rsquo;s the list of books I go to time and time again.
-Note: The links are to the books on amazon
-The List, in no particular order Clean Architecture
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivercodes</title><link>https://olivercodes.com/</link><description>Recent content on Olivercodes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>You</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My Bookshelf</title><link>https://olivercodes.com/bookshelf/first_post/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/bookshelf/first_post/</guid><description>My Bookshelf Clean Architecture
 Authors: Robert Martin Software Architecture, the Hard Parts
 Authors: Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani TCP/IP Illustrated, Volume 1
-Authors: Kevin Fall, W.</description></item></channel></rss>
+Authors: Kevin Fall, W. Stevens The Go Programming Language
+Authors: Alan A. A. Donovan, Brian W. Kernighan Refactoring
+Authors: Martin Fowler, with contributions from Kent Beck Database Design for Mere Mortals</description></item></channel></rss>
