@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://olivercodes.com"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -6,7 +6,7 @@ languageCode = "en"
 title = "My New Hugo Site"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "academia-hugo"
 
 [menu]
   [[menu.main]]
