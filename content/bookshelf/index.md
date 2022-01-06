@@ -13,8 +13,7 @@ categories: ["reading"]
 lightgallery: true
 ---
 
-##  My Bookshelf
-
+##  My Bookshelf 
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
   - Authors: Robert Martin
 
