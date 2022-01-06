@@ -3,6 +3,7 @@ weight: 4
 title: "Public Presentations and Videos"
 lastmod: 2021-12-20T00:00:00+00:00
 draft: false
+description: This contains a selection of my public talks and presentations.
 
 lightgallery: true
 ---

@@ -6,7 +6,7 @@ lastmod: 2021-12-20T00:00:00+00:00
 draft: false
 author: "Bryan"
 authorLink: "https://dillonzq.com"
-description: "This article shows the basic Markdown syntax and format."
+description: "Work in progress - Terraform Gitops Workflow Guide"
 featuredImage: "/lighthouse.jpg"
 resources:
 - name: "workflow"
