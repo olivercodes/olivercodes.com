@@ -8,7 +8,7 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
-### Gitopsdays 2022 - Scaling Flux to Hundreds of Developers (invited to give the talk again), Demo of Multicluster + Img Updater
+### Gitopsdays 2022 - Scaling Flux to Hundreds of Developers (invited to give the talk again)
 
 - Who: [Gitopsdays 2022](https://www.gitopsdays.com/speaker/bryan-oliver)
 - When: June 8-9, 2022
