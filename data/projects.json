@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "name":"img updater bot",
+      "url":"https://github.com/olivercodes/img-updater-bot",
+      "desc":"Dockerfile image layer updater for security patching"
+    },
+    {
       "name":"Prow owners-slash-command",
       "url":"https://github.com/olivercodes/owners-slash-command",
       "desc":"Gitops gate that parses Prow OWNERS"
