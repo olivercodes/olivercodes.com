@@ -10,7 +10,7 @@ lightgallery: true
 
 ### Gitopsdays 2022 - Scaling Flux to Hundreds of Developers (invited to give the talk again), Demo of Multicluster + Img Updater
 
-- Who: [Gitopsdays 2022]([Gitopsdays 2022](https://www.gitopsdays.com/speaker/bryan-oliver/)
+- Who: [Gitopsdays 2022](https://www.gitopsdays.com/speaker/bryan-oliver)
 - When: June 8-9, 2022
 - Crowd/Attendees: 200+
 - Where: Online, Streamed
@@ -22,7 +22,7 @@ lightgallery: true
 
 ### Devopsdays Birmingham - Scaling Flux to Hundreds of Developers
 
-- Who: [SLOConf Monthly]([Devopsdays Birmingham](https://devopsdays.org/events/2022-birmingham-al/speakers/bryan-oliver)
+- Who: [Devopsdays Birmingham, 2022](https://devopsdays.org/events/2022-birmingham-al/speakers/bryan-oliver)
 - When: April 18 - 19, 2022
 - Crowd/Attendees: 300
 - Where: Birmingham, Alabama
