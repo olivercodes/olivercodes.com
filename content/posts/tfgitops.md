@@ -20,7 +20,7 @@ lightgallery: true
 
 ## A simple Gitops workflow for terraform
 
-![/tfgit.jpg](/tfgit.png)
+![/tfgit.png](/tfgit.png)
 
 
 
