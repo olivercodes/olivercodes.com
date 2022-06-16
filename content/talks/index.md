@@ -8,6 +8,16 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
+### Devopsdays Birmingham - Scaling Flux to Hundreds of Developers
+
+- Who: [SLOConf Monthly]([Devopsdays Birmingham](https://devopsdays.org/events/2022-birmingham-al/speakers/bryan-oliver)
+- When: April 18 - 19, 2022
+- Crowd/Attendees: 300
+- Where: Birmingham, Alabama
+- Slides: [dod-bham-gslides](https://docs.google.com/presentation/d/1E9emmQx0K0hBaemcukafwTV8JGsjwuIKWGnIS2dQK30/edit?usp=sharing)
+- Note: Dual presentation with Kingdon Barret from Weaveworks
+
+{{< youtube G8cUcyGD5j4 >}}
 
 ### SloConf Monthly - From NFRs to SLOs
 
