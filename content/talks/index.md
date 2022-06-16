@@ -14,9 +14,11 @@ lightgallery: true
 - When: June 8-9, 2022
 - Crowd/Attendees: 200+
 - Where: Online, Streamed
-- Note: Dual presentation with Kingdon Barret from Weaveworks
+- Notes: 
+  - Dual presentation with Kingdon Barret from Weaveworks
+  - Our section is at 7:26:50
 
-{{< youtube ajnVmpyIoeU?t=26811 >}}
+{{< youtube ajnVmpyIoeU >}}
 
 ### Devopsdays Birmingham - Scaling Flux to Hundreds of Developers
 
