@@ -1,12 +1,22 @@
 ---
 weight: 4
 title: "Public Presentations and Videos"
-lastmod: 2021-12-20T00:00:00+00:00
+lastmod: 2022-06-15T00:00:00+00:00
 draft: false
 description: This contains a selection of my public talks and presentations.
 
 lightgallery: true
 ---
+
+### Gitopsdays 2022 - Scaling Flux to Hundreds of Developers (invited to give the talk again), Demo of Multicluster + Img Updater
+
+- Who: [Gitopsdays 2022]([Gitopsdays 2022](https://www.gitopsdays.com/speaker/bryan-oliver/)
+- When: June 8-9, 2022
+- Crowd/Attendees: 200+
+- Where: Online, Streamed
+- Note: Dual presentation with Kingdon Barret from Weaveworks
+
+{{< youtube ajnVmpyIoeU?t=26811 >}}
 
 ### Devopsdays Birmingham - Scaling Flux to Hundreds of Developers
 
