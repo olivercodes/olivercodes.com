@@ -27,7 +27,7 @@ lightgallery: true
 - Crowd/Attendees: 300
 - Where: Birmingham, Alabama
 - Slides: [dod-bham-gslides](https://docs.google.com/presentation/d/1E9emmQx0K0hBaemcukafwTV8JGsjwuIKWGnIS2dQK30/edit?usp=sharing)
-- Note: Dual presentation with Kingdon Barret ([kingdonb](github.com/kingdonb)) from Weaveworks
+- Note: Dual presentation with Kingdon Barrett ([kingdonb](https://github.com/kingdonb)) from Weaveworks
 
 {{< youtube G8cUcyGD5j4 >}}
 
