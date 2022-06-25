@@ -15,7 +15,7 @@ lightgallery: true
 - Crowd/Attendees: 200+
 - Where: Online, Streamed
 - Notes: 
-  - Dual presentation with Kingdon Barret ([kingdonb](github.com/kingdonb)) from Weaveworks
+  - Dual presentation with Kingdon Barrett ([kingdonb](https://github.com/kingdonb)) from Weaveworks
   - Our section is at 7:26:50
 
 {{< youtube ajnVmpyIoeU >}}
