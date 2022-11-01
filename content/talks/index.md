@@ -8,6 +8,15 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
+### Refactr.tech 20222 - Cloud Native Delivery Patterns
+
+- Who: [Refactr.tech 2022](https://www.refactr.tech/speakers/bryan-oliver)
+- When: Sept 14-16, 2022
+- Crowd/Attendees: 200+
+- Where: Atlanta, GA
+
+{{< youtube wdti2dBfsn8 >}}
+
 ### Gitopsdays 2022 - Scaling Flux to Hundreds of Developers (invited to give the talk again)
 
 - Who: [Gitopsdays 2022](https://www.gitopsdays.com/speaker/bryan-oliver)
