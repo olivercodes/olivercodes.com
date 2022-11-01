@@ -8,7 +8,7 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
-### Refactr.tech 20222 - Cloud Native Delivery Patterns
+### Refactr.tech 2022 - Cloud Native Delivery Patterns
 
 - Who: [Refactr.tech 2022](https://www.refactr.tech/speakers/bryan-oliver)
 - When: Sept 14-16, 2022
