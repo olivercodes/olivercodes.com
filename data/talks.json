@@ -1,24 +1,19 @@
 {
   "list": [
     {
-      "name":"test",
-      "url":"https://github.com/olivercodes/img-updater-bot",
-      "desc":"Dockerfile image layer updater for security patching"
+      "name":"Refactr.tech 2022 - Cloud Native Delivery Patterns",
+      "url":"https://youtu.be/wdti2dBfsn8",
+      "desc":"Conference talk on the patterns behind CD tools"
     },
     {
-      "name":"test",
-      "url":"https://github.com/olivercodes/owners-slash-command",
-      "desc":"Gitops gate that parses Prow OWNERS"
+      "name":"Gitopsdays 2022 - Scaling Flux to Hundreds of Developers",
+      "url":"https://youtu.be/ajnVmpyIoeU",
+      "desc":"Dual presentation with Kingdon Barrett on scaling Flux"
     },
     {
-      "name":"terraform-helm-velero",
-      "url":"https://github.com/olivercodes/terraform-helm-velero",
-      "desc":"A terraform module that installs velero on k8s clusters"
-    },
-    {
-      "name":"dotfiles",
-      "url":"https://github.com/olivercodes/dotfiles",
-      "desc":"My dotfiles. Config for ZSH, Neovim, etc."
+      "name":"SloConf Monthly - From NFRs to SLOs",
+      "url":"https://youtu.be/2nOmP3eSxGI",
+      "desc":"Conference talk on converting business Nonfunctional Requirements to SLOs for SRE teams"
     }
   ]
 }
