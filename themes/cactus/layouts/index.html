@@ -37,6 +37,29 @@
   {{ partial "optional-about.html" . }}
   </section>
 
+  {{ $showTalksList := false }}
+  {{ if (isset .Site.Params "showTalksList") }}
+    {{ $showtalkslist = .Site.Params.showTalksList }}
+  {{ else if .Site.Data.talks }}
+    {{ $showTalksList = true }}
+  {{ end }}
+  {{ if $showTalksList }}
+    {{ $talksUrl := "#" }}
+    {{ if isset .Site.Params "talksUrl" }}
+      {{ $talksUrl = .Site.Params.talksUrl }}
+    {{ end }}
+  <section id="talks">
+    <span class="h1"><a href="{{ $talksUrl }}">Talks</a></span>
+    <ul class="talk-list">
+        {{ range .Site.Data.talks.list }}
+        <li class="project-item">
+          <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+        </li>
+        {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
   <section id="writing">
     <span class="h1"><a href="{{ .Site.Params.mainSection | absURL }}">{{ .Site.Params.mainSectionTitle | default "Writings" }}</a></span>
     {{ if (and (and (isset .Site.Params "tagsoverview") (eq .Site.Params.tagsOverview true)) (gt (len .Site.Taxonomies.tags) 0)) }}
@@ -109,26 +132,4 @@
   </section>
   {{ end }}
 
-  {{ $showTalksList := false }}
-  {{ if (isset .Site.Params "showTalksList") }}
-    {{ $showtalkslist = .Site.Params.showTalksList }}
-  {{ else if .Site.Data.talks }}
-    {{ $showTalksList = true }}
-  {{ end }}
-  {{ if $showTalksList }}
-    {{ $talksUrl := "#" }}
-    {{ if isset .Site.Params "talksUrl" }}
-      {{ $talksUrl = .Site.Params.talksUrl }}
-    {{ end }}
-  <section id="talks">
-    <span class="h1"><a href="{{ $talksUrl }}">Talks</a></span>
-    <ul class="talk-list">
-        {{ range .Site.Data.talks.list }}
-        <li class="project-item">
-          <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
-        </li>
-        {{ end }}
-    </ul>
-  </section>
-  {{ end }}
 {{ end }}
