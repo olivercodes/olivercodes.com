@@ -56,7 +56,7 @@ weight = 5
 
   # Home page settings
   description = "My tech site"
-  mainSection = "posts" # your main section
+  mainSection = "talks" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
