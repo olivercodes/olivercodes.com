@@ -54,6 +54,10 @@ weight = 5
   showAllPostsArchive = false # default
   logo = "headshot.jpg"
 
+  showTalksList = true
+  talksUrl = "/talks"
+
+
   # Home page settings
   description = "My tech site"
   mainSection = "posts" # your main section
