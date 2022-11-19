@@ -11,6 +11,7 @@
   <link rel = 'canonical' href = '{{ .Permalink }}'>
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property='og:image' content='https://github.com/olivercodes/olivercodes.com/blob/main/static/lighthouse.jpg'/>
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   {{ template "_internal/opengraph.html" . }}
