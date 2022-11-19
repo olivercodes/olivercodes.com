@@ -115,7 +115,7 @@
   {{ else if .Site.Data.talks }}
     {{ $showTalksList = true }}
   {{ end }}
-  {{ if $showtalkslist }}
+  {{ if $showTalksList }}
     {{ $talksUrl := "#" }}
     {{ if isset .Site.Params "talksUrl" }}
       {{ $talksUrl = .Site.Params.talksUrl }}
