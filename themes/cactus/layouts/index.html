@@ -50,7 +50,7 @@
     {{ end }}
   <section id="talks">
     <span class="h1"><a href="{{ $talksUrl }}">Talks</a></span>
-    <ul class="talk-list">
+    <ul class="project-list">
         {{ range .Site.Data.talks.list }}
         <li class="project-item">
           <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
