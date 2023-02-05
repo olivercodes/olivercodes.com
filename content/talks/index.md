@@ -8,6 +8,16 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
+### Codefreeze 2023 - Walled Garden, a Practical Guide to 0-Trust Kubernetes
+- Who: [Codefreeze 2023, University of Minnesota](https://cse.umn.edu/umsec/events/code-freeze-2023-tech-resilience)
+- When: January 11-13, 2023
+- Audience Size: 100
+- Where: Minneapolis, MN
+- Slides: https://docs.google.com/presentation/d/1n3H-qAtEUgIBbYT1mXD6Cmw6V1KAZTkipwfONgvFGe4/edit#slide=id.ge0d2666f43_2_202
+- Notes:
+  - Dual presentation with [Sean Alvarez, Thoughtworks](https://www.linkedin.com/in/seanpalvarez/)
+  - Workshop style presentation, we went through close to a dozen live demos and exercises with audience members 
+
 ### Refactr.tech 2022 - Cloud Native Delivery Patterns
 
 - Who: [Refactr.tech 2022](https://www.refactr.tech/speakers/bryan-oliver)
