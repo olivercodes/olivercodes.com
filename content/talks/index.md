@@ -18,6 +18,16 @@ lightgallery: true
 
 {{< youtube Vo8VCABNc24 >}}
 
+### CDCon+GitopsCon 2023 - Flux at the Point of Change - Using the K8s Golang SDK and the Flux Api to Automatically Fix and Deploy CVEs
+- Who: [CDCon+GitopsCon, Vancouver 2023](https://events.linuxfoundation.org/cdcon-gitopscon/)
+- When: May 8-9, 2023
+- Audience Size: 100
+- Where: Vancouver, British Columbia, Canada
+- Notes:
+  - Follow up example presentation, compliments keynote
+
+{{< youtube TEeZ1gYWwrw >}}
+
 ### Codefreeze 2023 - Walled Garden, a Practical Guide to 0-Trust Kubernetes
 - Who: [Codefreeze 2023, University of Minnesota](https://cse.umn.edu/umsec/events/code-freeze-2023-tech-resilience)
 - When: January 11-13, 2023
