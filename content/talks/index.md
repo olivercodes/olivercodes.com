@@ -8,6 +8,16 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
+### KEYNOTE! CDCon+GitopsCon 2023 - Compliance at the Point of Change: Security and Developer Independence
+- Who: [CDCon+GitopsCon, Vancouver 2023](https://events.linuxfoundation.org/cdcon-gitopscon/)
+- When: May 8-9, 2023
+- Audience Size: 500
+- Where: Vancouver, British Columbia, Canada
+- Notes:
+  - Dual Keynote presentation with [Nic Cheneweth, Thoughtworks](https://www.linkedin.com/in/niccheneweth/)
+
+{{< youtube Vo8VCABNc24 >}}
+
 ### Codefreeze 2023 - Walled Garden, a Practical Guide to 0-Trust Kubernetes
 - Who: [Codefreeze 2023, University of Minnesota](https://cse.umn.edu/umsec/events/code-freeze-2023-tech-resilience)
 - When: January 11-13, 2023
