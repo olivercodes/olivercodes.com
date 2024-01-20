@@ -8,21 +8,21 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
-### Coming Soon! Kubeday Singapore, December 12 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You're Crazy
+### Kubeday Singapore, December 12 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You're Crazy
 - Who: [Kubeday Singapore](https://events.linuxfoundation.org/kubeday-singapore/)
 - When: Decemnber 12, 2023
-- Audience Size: ??
+- Audience Size: 200-400
 - Where: Singapore
 - Notes:
-  - Talk video will be posted after the event
+  - Rated one of the best talks of the conference
 
-### Coming Soon! CDCon Japan, December 4 2023 - Cloud Native Delivery Patterns
+{{< youtube e4vHy7Y-PFc >}}
+
+### CDCon Japan, December 4 2023 - Cloud Native Delivery Patterns
 - Who: [CDCon Japan](https://cd.foundation/cdcon-japan-2023)
 - When: Decemnber 4, 2023
-- Audience Size: ??
 - Where: Tokyo, Japan
-- Notes:
-  - Talk video will be posted after the event
+- Notes: Not recorded
 
 ### KEYNOTE! CDCon+GitopsCon 2023 - Compliance at the Point of Change: Security and Developer Independence
 - Who: [CDCon+GitopsCon, Vancouver 2023](https://events.linuxfoundation.org/cdcon-gitopscon/)
