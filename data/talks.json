@@ -1,24 +1,19 @@
 {
   "list": [
     {
+      "name": "Kubeday Singapore 2023",
+      "url": "https://youtu.be/e4vHy7Y-PFc?si=Z594gArrDQJc6YeX",
+      "desc": "Multi-Region, Multi-Primary global apis. Note: I'm told my talk was one of the top rated talks!"
+    },
+    {
       "name":"KEYNOTE - CDCon+GitopsCon 2023 - Compliance at the Point of Change: Security and Developer Independence",
       "url": "https://youtu.be/Vo8VCABNc24",
       "desc": "Conference talk on using patterns and automation to remove the friction of compliance and gain developer efficiency"
     },
     {
-      "name":"Refactr.tech 2022 - Cloud Native Delivery Patterns",
-      "url":"https://youtu.be/wdti2dBfsn8",
-      "desc":"Conference talk on the patterns behind CD tools"
-    },
-    {
-      "name":"Gitopsdays 2022 - Scaling Flux to Hundreds of Developers",
-      "url":"https://youtu.be/ajnVmpyIoeU",
-      "desc":"Dual presentation with Kingdon Barrett on scaling Flux"
-    },
-    {
       "name":"SloConf Monthly - From NFRs to SLOs",
       "url":"https://youtu.be/2nOmP3eSxGI",
       "desc":"Conference talk on converting business Nonfunctional Requirements to SLOs for SRE teams"
-    }
+     }
   ]
 }
