@@ -22,7 +22,9 @@ lightgallery: true
 - Who: [CDCon Japan](https://cd.foundation/cdcon-japan-2023)
 - When: Decemnber 4, 2023
 - Where: Tokyo, Japan
-- Notes: Not recorded
+- Notes:
+  - Not recorded
+  - First time I've publicy said I'm writing a book with O'Reilly on this topic
 
 ### KEYNOTE! CDCon+GitopsCon 2023 - Compliance at the Point of Change: Security and Developer Independence
 - Who: [CDCon+GitopsCon, Vancouver 2023](https://events.linuxfoundation.org/cdcon-gitopscon/)
