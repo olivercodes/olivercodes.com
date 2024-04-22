@@ -9,7 +9,7 @@ lightgallery: true
 ---
 
 ### Kubecon EU, Platform Engineering Day - Beyond Platfomr Engineering at Ritchie Bros
-- Who: [Kubecon EU](https://events.linuxfoundation.org/kubeday-singapore/](https://kccnceu2024.sched.com/?iframe=no)
+- Who: [Kubecon EU](https://kccnceu2024.sched.com/?iframe=no)
 - When: March 19-22, 2024
 - Audience Size: 800
 - Where: Paris, France
