@@ -8,6 +8,16 @@ description: This contains a selection of my public talks and presentations.
 lightgallery: true
 ---
 
+### Kubecon EU, Platform Engineering Day - Beyond Platfomr Engineering at Ritchie Bros
+- Who: [Kubecon EU](https://events.linuxfoundation.org/kubeday-singapore/](https://kccnceu2024.sched.com/?iframe=no)
+- When: March 19-22, 2024
+- Audience Size: 800
+- Where: Paris, France
+- Notes:
+  - So many questions at the end!!! Watch the Q/A
+
+{{< youtube 5z-ybDPucee1hv4L >}}
+
 ### Kubeday Singapore, December 12 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You're Crazy
 - Who: [Kubeday Singapore](https://events.linuxfoundation.org/kubeday-singapore/)
 - When: Decemnber 12, 2023
