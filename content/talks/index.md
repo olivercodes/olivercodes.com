@@ -16,7 +16,7 @@ lightgallery: true
 - Notes:
   - So many questions at the end!!! Watch the Q/A
 
-{{< youtube 5z-ybDPucee1hv4L >}}
+{{< youtube rkteV6Mzjfs >}}
 
 ### Kubeday Singapore, December 12 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You're Crazy
 - Who: [Kubeday Singapore](https://events.linuxfoundation.org/kubeday-singapore/)
