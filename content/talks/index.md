@@ -23,6 +23,8 @@ lightgallery: true
 - When: April 19, 2024
 - Audience Size: 100
 - Where: Webinar
+- Notes:
+  - I'm no on the thumbnail image because I filled in for another speaker. It went so well I've been invited back 
 
 {{< youtube UGHmImbXbbI >}}
 
