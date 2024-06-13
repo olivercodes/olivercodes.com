@@ -18,6 +18,14 @@ lightgallery: true
 
 {{< youtube rkteV6Mzjfs >}}
 
+### Humanitec Webinar - How enterprises drive successful platform engineering initiatives
+- Who: https://www.youtube.com/@humanitec
+- When: April 19, 2024
+- Audience Size: 100
+- Where: Webinar
+
+{{< youtube UGHmImbXbbI >}}
+
 ### Kubeday Singapore, December 12 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You're Crazy
 - Who: [Kubeday Singapore](https://events.linuxfoundation.org/kubeday-singapore/)
 - When: Decemnber 12, 2023
