@@ -7,8 +7,32 @@ description: This contains a selection of my public talks and presentations.
 
 lightgallery: true
 ---
+### [UPCOMING] - Codecamp_Festival - TBA
+- Who: [Codecamp Festival Romania](https://codecamp.ro/speakers/bryan-oliver/)
+- When: October 22-24, 2024
+- Audience Size: 2000-3000
+- Where: Iasi, Romania
+- Notes:
+  - Speaking equally among the likes of James Lewis, Tariq King, Iris Classon, Kevlin Henney, Adam Tornhill, Neal Ford, and others...is a very humbling honor. 
 
-### Kubecon EU, Platform Engineering Day - Beyond Platfomr Engineering at Ritchie Bros
+### Jfrog Swampup - Verifying Artifacts and CVEs at the Change Boundary
+- Who: [Jfrog Swampup](https://swampup.jfrog.com)
+- When: September 9-11
+- Audience Size: 500
+- Where: Austin, Texas
+- Notes:
+  - Really fun talk
+  - No recording sadly, I'm going to do an encore of this talk with all of Thoughtworks and record it.  
+
+### Kubecon China - Dollars and PPMs, Carbon Emissions and Cloud Spend
+- Who: [Kubecon China](https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/)
+- When: August 21-23, 2024
+- Audience Size: 2000+
+- Where: Hong Kong
+- Notes:
+  - Due to a very serious medical emergency with my young daughter, I had to cancel my trip early and return before giving my talk. To those asking, yes she is ok now. Thank you!
+
+### Kubecon EU, Platform Engineering Day - Beyond Platform Engineering at Ritchie Bros
 - Who: [Kubecon EU](https://kccnceu2024.sched.com/?iframe=no)
 - When: March 19-22, 2024
 - Audience Size: 800
@@ -24,7 +48,7 @@ lightgallery: true
 - Audience Size: 100
 - Where: Webinar
 - Notes:
-  - I'm no on the thumbnail image because I filled in for another speaker. It went so well I've been invited back 
+  - I'm not on the thumbnail image because I filled in for another speaker. It went so well I've been asked to come back, my schedule permitting.
 
 {{< youtube UGHmImbXbbI >}}
 
