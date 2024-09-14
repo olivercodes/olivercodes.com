@@ -14,7 +14,11 @@ categories: ["Markdown"]
 lightgallery: true
 ---
 
-TBA - Engaged in a contract with O'Reilly publishers to write a book on Cloud Native Delivery Systems. Description (credit O'Reilly) below:
+Summary:
+Engaged in a contract with O'Reilly publishers to write a book on Cloud Native Delivery Systems. Note, I don't recommend working on 2 books at the same time! Description (O'Reilly provided ER Copy) below.
+
+Author(s): Bryan Oliver
+Expected Publish date: Early-mid 2025
 
 [Book] Designing Cloud Native Delivery Systems - ER Copy
 
