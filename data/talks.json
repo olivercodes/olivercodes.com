@@ -6,12 +6,17 @@
       "desc": "TBA"
     },
     {
-      "name": "Kubecon EU 2024 - Beyond Platform Engineering",
+      "name": "KubeconEU Paris 2024 - Beyond Platform Engineering",
       "url": "https://www.youtube.com/watch?v=rkteV6Mzjfs&t=1s",
       "desc": "Conference talk on how we built engineering platforms using k8s operators"
     },
     {
-      "name": "KEYNOTE - CDCon+GitopsCon 2023 - Compliance at the Point of Change: Security and Developer Independence",
+      "name": "Kubeday Singapore 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You’re Crazy",
+      "url": "https://www.youtube.com/watch?v=e4vHy7Y-PFc",
+      "desc": "Conference talk on global api engineering"
+    },
+    {
+      "name": "KEYNOTE - CDCon+GitopsCon Vancouver 2023 - Compliance at the Point of Change: Security and Developer Independence",
       "url": "https://youtu.be/Vo8VCABNc24",
       "desc": "Conference talk on using patterns and automation to remove the friction of compliance and gain developer efficiency"
     }
