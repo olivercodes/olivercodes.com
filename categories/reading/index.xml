@@ -1,7 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reading on Olivercodes</title><link>https://olivercodes.com/categories/reading/</link><description>Recent content in Reading on Olivercodes</description><generator>Hugo</generator><language>en-us</language><copyright>Olivercodes</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/categories/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>My Bookshelf</title><link>https://olivercodes.com/bookshelf/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/bookshelf/</guid><description>My Bookshelf Clean Architecture
-Authors: Robert Martin Software Architecture, the Hard Parts
-Authors: Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani TCP/IP Illustrated, Volume 1
-Authors: Kevin Fall, W. Stevens The Go Programming Language
-Authors: Alan A. A. Donovan, Brian W. Kernighan Refactoring
-Authors: Martin Fowler, with contributions from Kent Beck Database Design for Mere Mortals
-Authors: Michael J. Hernandez Team Topologies: Organizing Business and Technology Teams for Fast Flow Organizing Business and Technology Teams for Fast Flow</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reading on Olivercodes</title><link>https://olivercodes.com/categories/reading/</link><description>Recent content in Reading on Olivercodes</description><generator>Hugo</generator><language>en-us</language><copyright>Olivercodes</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/categories/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>My Bookshelf</title><link>https://olivercodes.com/bookshelf/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/bookshelf/</guid><description>&lt;h2 id="my-bookshelf">My Bookshelf&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Authors: Robert Martin&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894/ref=sr_1_1?keywords=software+architecture+the+hard+parts&amp;amp;qid=1641415956&amp;amp;s=books&amp;amp;sprefix=software+archite%2Cstripbooks%2C206&amp;amp;sr=1-1">Software Architecture, the Hard Parts&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Authors: Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313/ref=sr_1_2?crid=34KRVBYLQXVVK&amp;amp;keywords=tcp%2Fip&amp;amp;qid=1641416428&amp;amp;s=books&amp;amp;sprefix=tcp%2Fip%2Cstripbooks%2C114&amp;amp;sr=1-2">TCP/IP Illustrated, Volume 1&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Authors: Kevin Fall, W. Stevens&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.gopl.io/">The Go Programming Language&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Authors: Alan A. A. Donovan, Brian W. Kernighan&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://martinfowler.com/books/refactoring.html">Refactoring&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Authors: Martin Fowler, with contributions from Kent Beck&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/gp/product/0136788041/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1">Database Design for Mere Mortals&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Authors: Michael J. Hernandez&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/gp/product/1942788819/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1">Team Topologies: Organizing Business and Technology Teams for Fast Flow Organizing Business and Technology Teams for Fast Flow&lt;/a>&lt;/p></description></item></channel></rss>
