@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Manning Book, Effective Platform Engineering</title><link>/posts/manning/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>/posts/manning/</guid><description>&lt;p>Summary:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivercodes</title><link>https://olivercodes.com/</link><description>Recent content on Olivercodes</description><generator>Hugo</generator><language>en-us</language><copyright>Olivercodes</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Manning Book, Effective Platform Engineering</title><link>https://olivercodes.com/posts/manning/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/manning/</guid><description>&lt;p>Summary:
 Myself and 3 other Thoughtworkers (one now an ex-thoughtworker and is the current CTO of Brillio) are engaged in a contract with Manning publishers to write a book on Platform Engineering.&lt;/p>
 &lt;p>Author(s): Sean Alvarez, Ajay Chankramath, Nic Cheneweth, Bryan Oliver
-Expected Publish date: MEAP (Manning Early Access Program) expected in Q4, 2024.&lt;/p></description></item><item><title>O'Reilly book, Designing Cloud Native Delivery Systems</title><link>/posts/oreilly/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>/posts/oreilly/</guid><description>&lt;p>Summary:
+Expected Publish date: MEAP (Manning Early Access Program) expected in Q4, 2024.&lt;/p></description></item><item><title>O'Reilly book, Designing Cloud Native Delivery Systems</title><link>https://olivercodes.com/posts/oreilly/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/oreilly/</guid><description>&lt;p>Summary:
 Engaged in a contract with O&amp;rsquo;Reilly publishers to write a book on Cloud Native Delivery Systems. Note, I don&amp;rsquo;t recommend working on 2 books at the same time! Description (O&amp;rsquo;Reilly provided ER Copy) below.&lt;/p>
 &lt;p>Author(s): Bryan Oliver
 Expected Publish date: Early-mid 2025&lt;/p>
 &lt;p>[Book] Designing Cloud Native Delivery Systems - ER Copy&lt;/p>
-&lt;p>Are you grappling with the complexities of software delivery in today’s distributed environments? As technologies evolve, so do the challenges associated with deploying and managing systems that are robust, scalable, and efficient. Yet, without a structured understanding of the architectural patterns that underpin these systems, making informed decisions can be overwhelming.&lt;/p></description></item><item><title>Public Presentations and Videos</title><link>/talks/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>/talks/</guid><description>&lt;h3 id="upcoming---codecamp_festival---tba">[UPCOMING] - Codecamp_Festival - TBA&lt;/h3>
+&lt;p>Are you grappling with the complexities of software delivery in today’s distributed environments? As technologies evolve, so do the challenges associated with deploying and managing systems that are robust, scalable, and efficient. Yet, without a structured understanding of the architectural patterns that underpin these systems, making informed decisions can be overwhelming.&lt;/p></description></item><item><title>Public Presentations and Videos</title><link>https://olivercodes.com/talks/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://olivercodes.com/talks/</guid><description>&lt;h3 id="upcoming---codecamp_festival---tba">[UPCOMING] - Codecamp_Festival - TBA&lt;/h3>
 &lt;ul>
 &lt;li>Who: &lt;a href="https://codecamp.ro/speakers/bryan-oliver/">Codecamp Festival Romania&lt;/a>&lt;/li>
 &lt;li>When: October 22-24, 2024&lt;/li>
@@ -286,7 +286,7 @@ Expected Publish date: Early-mid 2025&lt;/p>
 &lt;li>Looking for the old deck. TODO&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>My Bookshelf</title><link>/bookshelf/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>/bookshelf/</guid><description>&lt;h2 id="my-bookshelf">My Bookshelf&lt;/h2>
+&lt;/ul></description></item><item><title>My Bookshelf</title><link>https://olivercodes.com/bookshelf/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/bookshelf/</guid><description>&lt;h2 id="my-bookshelf">My Bookshelf&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture&lt;/a>&lt;/p>
@@ -325,5 +325,5 @@ Expected Publish date: Early-mid 2025&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="https://www.amazon.com/gp/product/1942788819/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1">Team Topologies: Organizing Business and Technology Teams for Fast Flow Organizing Business and Technology Teams for Fast Flow&lt;/a>&lt;/p></description></item><item><title>Simple Terraform Gitops Workflow, w/ Prow and GH Actions</title><link>/posts/tfgitops/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>/posts/tfgitops/</guid><description>&lt;h2 id="a-simple-gitops-workflow-for-terraform">A simple Gitops workflow for terraform&lt;/h2>
-&lt;p>&lt;img src="/tfgit.png" alt="/tfgit.png">&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://www.amazon.com/gp/product/1942788819/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1">Team Topologies: Organizing Business and Technology Teams for Fast Flow Organizing Business and Technology Teams for Fast Flow&lt;/a>&lt;/p></description></item><item><title>Simple Terraform Gitops Workflow, w/ Prow and GH Actions</title><link>https://olivercodes.com/posts/tfgitops/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/tfgitops/</guid><description>&lt;h2 id="a-simple-gitops-workflow-for-terraform">A simple Gitops workflow for terraform&lt;/h2>
+&lt;p>&lt;img src="https://olivercodes.com/tfgit.png" alt="/tfgit.png">&lt;/p></description></item></channel></rss>
