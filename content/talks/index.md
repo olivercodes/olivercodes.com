@@ -24,14 +24,6 @@ lightgallery: true
   - Really fun talk
   - No recording sadly, I'm going to do an encore of this talk with all of Thoughtworks and record it.  
 
-### Kubecon China - Dollars and PPMs, Carbon Emissions and Cloud Spend
-- Who: [Kubecon China](https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/)
-- When: August 21-23, 2024
-- Audience Size: 2000+
-- Where: Hong Kong
-- Notes:
-  - Due to a very serious medical emergency with my young daughter, I had to cancel my trip early and return before giving my talk. To those asking, yes she is ok now. Thank you!
-
 ### Kubecon EU, Platform Engineering Day - Beyond Platform Engineering at Ritchie Bros
 - Who: [Kubecon EU](https://kccnceu2024.sched.com/?iframe=no)
 - When: March 19-22, 2024
