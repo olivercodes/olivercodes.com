@@ -32,7 +32,7 @@ lightgallery: true
 
 ## Stop starting with IaC
 
-![/bmwmouse.jpg](/bmwmouse.jpg)
+![/bmwmouse.jpg](/static/bmwmouse.jpg)
 - Image credit: https://www.bmwblog.com/2012/08/31/bmw-rolls-out-high-end-computer-mouse-99/ 
 
 When designing a brand new mouse, would you write the drivers or the firmware first? You would design the mouse! How many buttons does it have?
