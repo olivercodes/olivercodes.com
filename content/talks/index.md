@@ -7,13 +7,14 @@ description: This contains a selection of my public talks and presentations.
 
 lightgallery: true
 ---
-### [UPCOMING] - Codecamp_Festival - TBA
+### Codecamp_Festival - The Journey to Platform Engineering in 2024
 - Who: [Codecamp Festival Romania](https://codecamp.ro/speakers/bryan-oliver/)
 - When: October 22-24, 2024
-- Audience Size: 2000-3000
+- Audience Size: 200
 - Where: Iasi, Romania
 - Notes:
-  - Speaking equally among the likes of James Lewis, Tariq King, Iris Classon, Kevlin Henney, Adam Tornhill, Neal Ford, and others...is a very humbling honor. 
+  - Speaking equally among the likes of James Lewis, Tariq King, Iris Classon, Kevlin Henney, Adam Tornhill, Neal Ford, and others...is a very humbling honor.
+  - There's supposedly a video coming, but still waiting
 
 ### Jfrog Swampup - Verifying Artifacts and CVEs at the Change Boundary
 - Who: [Jfrog Swampup](https://swampup.jfrog.com)
