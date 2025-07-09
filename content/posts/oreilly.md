@@ -10,6 +10,9 @@ description: "Upcoming O'Reilly publication"
 featuredImage: "/lighthouse.jpg"
 tags: ["cloud native", "o'reilly"]
 categories: ["Markdown"]
+resources:
+- name: "oreilly"
+  src: "/oreilly.jpeg"
 
 lightgallery: true
 ---
@@ -17,8 +20,10 @@ lightgallery: true
 Summary:
 Engaged in a contract with O'Reilly publishers to write a book on Cloud Native Delivery Systems. Note, I don't recommend working on 2 books at the same time! Description (O'Reilly provided ER Copy) below.
 
-Author(s): Bryan Oliver
-Expected Publish date: Early-mid 2025
+Author(s): Bryan Oliver, Nic Cheneweth
+Expected Publish date: Early 2026
+
+![/oreilly.jpeg](/oreilly.jpeg)
 
 [Book] Designing Cloud Native Delivery Systems - ER Copy
 
@@ -31,7 +36,3 @@ In this go-to guide, Bryan Oliver offers a groundbreaking exploration of the arc
 - Gain a profound grasp of the architectural components that constitute effective delivery systems
 - Choose suitable delivery systems and patterns, optimizing both function and efficiency
 - Identify effective patterns and antipatterns, so you can implement robust delivery systems
-
-
-
-

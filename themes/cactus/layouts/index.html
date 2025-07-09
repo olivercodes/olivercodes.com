@@ -37,6 +37,9 @@
   {{ partial "optional-about.html" . }}
   </section>
 
+  <img src="oreilly.jpeg" class="img-small" alt="Description">
+  <img src="manning.png" class="img-small" alt="Description">
+
   {{ $showTalksList := false }}
   {{ if (isset .Site.Params "showTalksList") }}
     {{ $showtalkslist = .Site.Params.showTalksList }}
