@@ -1,12 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivercodes</title><link>https://olivercodes.com/</link><description>Recent content on Olivercodes</description><generator>Hugo</generator><language>en-us</language><copyright>Olivercodes</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Manning Book, Effective Platform Engineering</title><link>https://olivercodes.com/posts/manning/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/manning/</guid><description>&lt;p>Summary:
-Myself and 3 other Thoughtworkers (one now an ex-thoughtworker and is the current CTO of Brillio) are engaged in a contract with Manning publishers to write a book on Platform Engineering.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivercodes</title><link>https://olivercodes.com/</link><description>Recent content on Olivercodes</description><generator>Hugo</generator><language>en-us</language><copyright>Olivercodes</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://olivercodes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Manning Book, Effective Platform Engineering</title><link>https://olivercodes.com/posts/manning/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/manning/</guid><description>&lt;p>&lt;a href="https://www.manning.com/books/effective-platform-engineering">https://www.manning.com/books/effective-platform-engineering&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://olivercodes.com/manning.png" alt="/manning.png">&lt;/p>
+&lt;p>Summary:
+Our book on Platform Engineering.&lt;/p>
 &lt;p>Author(s): Sean Alvarez, Ajay Chankramath, Nic Cheneweth, Bryan Oliver
-Expected Publish date: MEAP (Manning Early Access Program) expected in Q4, 2024.&lt;/p></description></item><item><title>O'Reilly book, Designing Cloud Native Delivery Systems</title><link>https://olivercodes.com/posts/oreilly/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/oreilly/</guid><description>&lt;p>Summary:
+Expected Print date: ~September&lt;/p></description></item><item><title>O'Reilly book, Designing Cloud Native Delivery Systems</title><link>https://olivercodes.com/posts/oreilly/</link><pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/oreilly/</guid><description>&lt;p>Summary:
 Engaged in a contract with O&amp;rsquo;Reilly publishers to write a book on Cloud Native Delivery Systems. Note, I don&amp;rsquo;t recommend working on 2 books at the same time! Description (O&amp;rsquo;Reilly provided ER Copy) below.&lt;/p>
 &lt;p>Author(s): Bryan Oliver
 Expected Publish date: Early-mid 2025&lt;/p>
 &lt;p>[Book] Designing Cloud Native Delivery Systems - ER Copy&lt;/p>
-&lt;p>Are you grappling with the complexities of software delivery in today’s distributed environments? As technologies evolve, so do the challenges associated with deploying and managing systems that are robust, scalable, and efficient. Yet, without a structured understanding of the architectural patterns that underpin these systems, making informed decisions can be overwhelming.&lt;/p></description></item><item><title>Public Presentations and Videos</title><link>https://olivercodes.com/talks/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://olivercodes.com/talks/</guid><description>&lt;h3 id="codecamp_festival---the-journey-to-platform-engineering-in-2024">Codecamp_Festival - The Journey to Platform Engineering in 2024&lt;/h3>
+&lt;p>Are you grappling with the complexities of software delivery in today’s distributed environments? As technologies evolve, so do the challenges associated with deploying and managing systems that are robust, scalable, and efficient. Yet, without a structured understanding of the architectural patterns that underpin these systems, making informed decisions can be overwhelming.&lt;/p></description></item><item><title>Public Presentations and Videos</title><link>https://olivercodes.com/talks/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://olivercodes.com/talks/</guid><description>&lt;h3 id="craft-conf---workshop-global-kubernetes-operators">craft-conf - Workshop, Global Kubernetes Operators&lt;/h3>
+&lt;ul>
+&lt;li>Who: &lt;a href="https://craft-conf.com/2025/speaker/bryan-oliver">craft-conf&lt;/a>&lt;/li>
+&lt;li>When: May 29-30, 2025&lt;/li>
+&lt;li>Audience Size: 100&lt;/li>
+&lt;li>Where: Budapest, Hungary&lt;/li>
+&lt;li>Notes:
+&lt;ul>
+&lt;li>2 hour workshop on distributed kubernetes operator patterns&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="platmosphere---hubris">Platmosphere - Hubris&lt;/h3>
+&lt;ul>
+&lt;li>Who: &lt;a href="https://platmosphere.com">Platmosphere&lt;/a>&lt;/li>
+&lt;li>When: May 20, 2025&lt;/li>
+&lt;li>Audience Size: 100&lt;/li>
+&lt;li>Where: Milan, Italy&lt;/li>
+&lt;li>Notes:
+&lt;ul>
+&lt;li>First non-technical talk.&lt;/li>
+&lt;li>A critical focus on Hubris in engineering.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="codecamp_festival---the-journey-to-platform-engineering-in-2024">Codecamp_Festival - The Journey to Platform Engineering in 2024&lt;/h3>
 &lt;ul>
 &lt;li>Who: &lt;a href="https://codecamp.ro/speakers/bryan-oliver/">Codecamp Festival Romania&lt;/a>&lt;/li>
 &lt;li>When: October 22-24, 2024&lt;/li>
