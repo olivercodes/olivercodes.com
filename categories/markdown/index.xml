@@ -5,8 +5,9 @@ Our book on Platform Engineering.&lt;/p>
 &lt;p>Author(s): Sean Alvarez, Ajay Chankramath, Nic Cheneweth, Bryan Oliver
 Expected Print date: ~September&lt;/p></description></item><item><title>O'Reilly book, Designing Cloud Native Delivery Systems</title><link>https://olivercodes.com/posts/oreilly/</link><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/oreilly/</guid><description>&lt;p>Summary:
 Engaged in a contract with O&amp;rsquo;Reilly publishers to write a book on Cloud Native Delivery Systems. Note, I don&amp;rsquo;t recommend working on 2 books at the same time! Description (O&amp;rsquo;Reilly provided ER Copy) below.&lt;/p>
-&lt;p>Author(s): Bryan Oliver
-Expected Publish date: Early-mid 2025&lt;/p>
+&lt;p>Author(s): Bryan Oliver, Nic Cheneweth
+Expected Publish date: Early 2026&lt;/p>
+&lt;p>&lt;img src="https://olivercodes.com/oreilly.jpeg" alt="/oreilly.jpeg">&lt;/p>
 &lt;p>[Book] Designing Cloud Native Delivery Systems - ER Copy&lt;/p>
 &lt;p>Are you grappling with the complexities of software delivery in today’s distributed environments? As technologies evolve, so do the challenges associated with deploying and managing systems that are robust, scalable, and efficient. Yet, without a structured understanding of the architectural patterns that underpin these systems, making informed decisions can be overwhelming.&lt;/p></description></item><item><title>Terraform is just the firmware of the cloud</title><link>https://olivercodes.com/posts/firmware_of_the_cloud/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://olivercodes.com/posts/firmware_of_the_cloud/</guid><description>&lt;h2 id="stop-starting-with-iac">Stop starting with IaC&lt;/h2>
 &lt;p>&lt;img src="https://olivercodes.com/bmwmouse.jpg" alt="/bmwmouse.jpg">&lt;/p>
