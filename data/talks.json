@@ -1,9 +1,19 @@
 {
   "list": [
     {
-      "name": "[UPCOMING] - Codecamp_Festival Romania 2024 - TBA",
+      "name": "craft-conf, Budapest",
+      "url": "https://craft-conf.com/2025/speaker/bryan-oliver",
+      "desc": "Workshop on k8s operators"
+    },
+    {
+      "name": "Platmosphere, Italy",
+      "url": "https://platmosphere.com",
+      "desc": "Hubris in Engineering"
+    },
+    {
+      "name": "Codecamp_Festival Romania 2024",
       "url": "https://codecamp.ro/speakers/bryan-oliver/",
-      "desc": "TBA"
+      "desc": "Journey to Platform Engineering"
     },
     {
       "name": "KubeconEU Paris 2024 - Beyond Platform Engineering",
