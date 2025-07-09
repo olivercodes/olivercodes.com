@@ -7,6 +7,23 @@ description: This contains a selection of my public talks and presentations.
 
 lightgallery: true
 ---
+### craft-conf - Workshop, Global Kubernetes Operators
+- Who: [craft-conf](https://craft-conf.com/2025/speaker/bryan-oliver)
+- When: May 29-30, 2025
+- Audience Size: 100
+- Where: Budapest, Hungary
+- Notes:
+  - 2 hour workshop on distributed kubernetes operator patterns 
+
+### Platmosphere - Hubris
+- Who: [Platmosphere](https://platmosphere.com)
+- When: May 20, 2025
+- Audience Size: 100
+- Where: Milan, Italy
+- Notes:
+  - First non-technical talk.
+  - A critical focus on Hubris in engineering. 
+
 ### Codecamp_Festival - The Journey to Platform Engineering in 2024
 - Who: [Codecamp Festival Romania](https://codecamp.ro/speakers/bryan-oliver/)
 - When: October 22-24, 2024
