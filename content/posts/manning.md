@@ -10,12 +10,19 @@ description: "Upcoming Manning publication"
 featuredImage: "/lighthouse.jpg"
 tags: ["cloud native", "platform engineering", "manning"]
 categories: ["Markdown"]
+resources:
+- name: "manning"
+  src: "/manning.png"
 
 lightgallery: true
 ---
 
+https://www.manning.com/books/effective-platform-engineering
+
+![/manning.png](/manning.png)
+
 Summary:
-Myself and 3 other Thoughtworkers (one now an ex-thoughtworker and is the current CTO of Brillio) are engaged in a contract with Manning publishers to write a book on Platform Engineering.
+Our book on Platform Engineering.
 
 Author(s): Sean Alvarez, Ajay Chankramath, Nic Cheneweth, Bryan Oliver
-Expected Publish date: MEAP (Manning Early Access Program) expected in Q4, 2024.
+Expected Print date: ~September
