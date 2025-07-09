@@ -4,6 +4,9 @@ title: "Public Presentations and Videos"
 lastmod: 2022-06-15T00:00:00+00:00
 draft: false
 description: This contains a selection of my public talks and presentations.
+resources:
+- name: "craft"
+  src: "/craft.jpeg"
 
 lightgallery: true
 ---
@@ -14,7 +17,9 @@ lightgallery: true
 - Audience Size: 100
 - Where: Budapest, Hungary
 - Notes:
-  - 2 hour workshop on distributed kubernetes operator patterns 
+  - 2 hour workshop on distributed kubernetes operator patterns
+
+![/craft.jpeg](/craft.jpeg)
 
 ### Platmosphere - Hubris
 - Who: [Platmosphere](https://platmosphere.com)
@@ -23,7 +28,7 @@ lightgallery: true
 - Where: Milan, Italy
 - Notes:
   - First non-technical talk.
-  - A critical focus on Hubris in engineering. 
+  - A critical focus on Hubris in engineering.
 
 ### Codecamp_Festival - The Journey to Platform Engineering in 2024
 - Who: [Codecamp Festival Romania](https://codecamp.ro/speakers/bryan-oliver/)
@@ -41,7 +46,7 @@ lightgallery: true
 - Where: Austin, Texas
 - Notes:
   - Really fun talk
-  - No recording sadly, I'm going to do an encore of this talk with all of Thoughtworks and record it.  
+  - No recording sadly, I'm going to do an encore of this talk with all of Thoughtworks and record it.
 
 ### Kubecon EU, Platform Engineering Day - Beyond Platform Engineering at Ritchie Bros
 - Who: [Kubecon EU](https://kccnceu2024.sched.com/?iframe=no)
@@ -109,7 +114,7 @@ lightgallery: true
 - Slides: https://docs.google.com/presentation/d/1n3H-qAtEUgIBbYT1mXD6Cmw6V1KAZTkipwfONgvFGe4/edit#slide=id.ge0d2666f43_2_202
 - Notes:
   - Dual presentation with [Sean Alvarez, Thoughtworks](https://www.linkedin.com/in/seanpalvarez/)
-  - Workshop style presentation, we went through close to a dozen live demos and exercises with audience members 
+  - Workshop style presentation, we went through close to a dozen live demos and exercises with audience members
 
 ### Refactr.tech 2022 - Cloud Native Delivery Patterns
 
@@ -126,7 +131,7 @@ lightgallery: true
 - When: June 8-9, 2022
 - Crowd/Attendees: 200+
 - Where: Online, Streamed
-- Notes: 
+- Notes:
   - Dual presentation with Kingdon Barrett ([github.com/kingdonb](github.com/kingdonb)) from Weaveworks
   - Our section is at 7:26:50
 
@@ -161,7 +166,7 @@ lightgallery: true
 - Crowd/Attendees: 100+
 - Where: Huge Inc. HQ, Atlanta
 - Slides: n/a
-- Notes: 
+- Notes:
   - This was a lightning talk party, hence why the presentation was kept to 10 minutes.
   - The github link I give at the end is my old handle, and is no longer my gh username.
 
@@ -172,12 +177,12 @@ lightgallery: true
 - Who: [General Assembly]()
 - Where: General Assembly Atlanta
 - Slides: n/a
-- Info: 
+- Info:
   - [https://generalassemb.ly/instructors/bryan-oliver/6497](https://generalassemb.ly/instructors/bryan-oliver/6497)
   - [https://generalassemb.ly/education/build-it-angular-ionic-a-hands-on-workshop](https://generalassemb.ly/education/build-it-angular-ionic-a-hands-on-workshop)
 
 
-## Google Developer Group (GDG) & Women Techmakers Atlanta 
+## Google Developer Group (GDG) & Women Techmakers Atlanta
 ### MVP (Model-View-Presenter), examples in Angular + Typescript
 
 - Who: [Women Techmakers & GDG](https://gdg.community.dev/events/details/google-gdg-atlanta-presents-women-techmakers-mvp-model-view-presenter-examples-in-angular-typescript/)
@@ -185,5 +190,5 @@ lightgallery: true
 - Crowd/Attendees: 25+
 - Where: Terminus Atlanta
 - Slides: n/a
-- Notes: 
+- Notes:
   - Looking for the old deck. TODO
