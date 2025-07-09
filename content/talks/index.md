@@ -7,6 +7,8 @@ description: This contains a selection of my public talks and presentations.
 resources:
 - name: "craft"
   src: "/craft.jpeg"
+- name: "platmosphere"
+  src: "/platmosphere.jpg"
 
 lightgallery: true
 ---
@@ -29,6 +31,8 @@ lightgallery: true
 - Notes:
   - First non-technical talk.
   - A critical focus on Hubris in engineering.
+
+![/platmosphere.jpg](/platmosphere.jpg)
 
 ### Codecamp_Festival - The Journey to Platform Engineering in 2024
 - Who: [Codecamp Festival Romania](https://codecamp.ro/speakers/bryan-oliver/)
