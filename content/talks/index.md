@@ -7,6 +7,7 @@ description: This contains a selection of my public talks and presentations.
 
 lightgallery: true
 ---
+## My Talks
 ### craft-conf - Workshop, Global Kubernetes Operators
 - Who: [craft-conf](https://craft-conf.com/2025/speaker/bryan-oliver)
 - When: May 29-30, 2025
