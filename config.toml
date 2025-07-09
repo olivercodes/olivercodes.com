@@ -1,6 +1,6 @@
 baseURL = "https://olivercodes.com"
 languageCode = "en-us"
-title = "Olivercodes"
+title = "Bryan Oliver"
 theme = "cactus"
 copyright = "Olivercodes" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
