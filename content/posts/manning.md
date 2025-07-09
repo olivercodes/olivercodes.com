@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Manning Book, Effective Platform Engineering"
-date: 2024-09-13T00:00:00+00:00
-lastmod: 2024-09-13T00:00:00+00:00
+date: 2025-07-09T00:00:00+00:00
+lastmod: 2025-09-09T00:00:00+00:00
 draft: false
 author: "Bryan Oliver, Nic Cheneweth, Ajay Chankramath, Sean Alvarez"
 authorLink: "https://olivercodes.com"
