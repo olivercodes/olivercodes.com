@@ -32,7 +32,7 @@ lightgallery: true
 
 ## Stop starting with IaC
 
-![/bmwmouse.jpg](/static/bmwmouse.jpg)
+![/bmwmouse.jpg](/bmwmouse.jpg)
 - Image credit: https://www.bmwblog.com/2012/08/31/bmw-rolls-out-high-end-computer-mouse-99/
 
 When designing a brand new mouse, would you write the drivers or the firmware first? You would design the mouse! How many buttons does it have?
@@ -46,13 +46,13 @@ teams can create a pull request to get resources provisioned.
 
 ## IaC Shortcomings
 
-![/snow.png](/static/snow.png)
+![/snow.png](/snow.png)
 
 How different is a pull request from a servicenow ticket? Changes are requested, reviewed, often assigned and reassigned. Eventually they are
 approved or declined.
 
 
-![/pr.png](/static/pr.png)
+![/pr.png](/pr.png)
 
 The only major differences between a servicenow ticket and a pull request are the UI in which the change is requested, and the
 requestor takes a stab at "implementing" the change - all this because we say it's faster!
@@ -66,13 +66,13 @@ Maybe it is a little faster, but the level of effort required to implement this 
 
 > When faced with two or more alternatives that deliver roughly the same value, take the path that makes the future easier - Dave Thomas
 
-![/fwtoapi.png](/static/fwtoapi.png)
+![/fwtoapi.png](/fwtoapi.png)
 
 When we start with a design at the terraform layer, we miss an opportunity to define an abstract interface, one that doesn't bind us to a specific technology.
 What if Terraform isn't what we want to use in 5 years? We'll have to rewrite all of those custom providers and modules. And while AI is making rewrites
 easier and easier, it's best if we avoid them completely when it's possible.
 
-![/apifirst.png](/static/apifirst.png)
+![/apifirst.png](/apifirst.png)
 
 So what if instead, we defined our API first? The terraform is then the implementation of that API.
 
@@ -81,11 +81,10 @@ You can interpret the diagram how you want. For example the Terraform Cloud box 
 The important aspect, is that our API in front of these layers is an abstract and self-service API consumeable by our engineers.
 
 
-![/downtheroad.png](/static/downtheroad.png)
+![/downtheroad.png](/downtheroad.png)
 
 Then, we can go on to write the implementation details of our API, such as the controllers, providers, modules, and terraform code that creates our resources. And now, when
 we decide we don't like Terraform, the consumers of our self-service platform don't have to care. We can change the underlying implementation without affecting them, or at
 least greatly reducing how much it affects them!
-
 
 
