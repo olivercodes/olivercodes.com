@@ -37,8 +37,10 @@
   {{ partial "optional-about.html" . }}
   </section>
 
-  <img src="oreilly.jpeg" class="img-small" alt="Description" width="200">
-  <img src="manning.png" class="img-small" alt="Description" width="200">
+  <div style="display: flex; gap: 10px;">
+    <img src="manning.png" style="width: 25%; height: auto;" alt="manning cover">
+    <img src="oreilly.jpeg" style="width: 25%; height: auto;" alt="oreilly cover">
+  </div>
 
   {{ $showTalksList := false }}
   {{ if (isset .Site.Params "showTalksList") }}
