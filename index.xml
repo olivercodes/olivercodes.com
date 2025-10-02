@@ -18,273 +18,45 @@ Expected Publish date: Early 2026&lt;/p>
 What sort of shape will it be? Who is the intended audience? What colors will we offer? Is it customizable? Is it heavy or light? All of these details factor in to the
 user interface of the mouse, and how it will be used by the customer. The underlying details of the mouse, are developed after the initial interface
 and design phase.&lt;/p></description></item><item><title>Public Presentations and Videos</title><link>https://olivercodes.com/talks/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://olivercodes.com/talks/</guid><description>&lt;h2 id="my-talks">My Talks&lt;/h2>
-&lt;h3 id="craft-conf---workshop-global-kubernetes-operators">craft-conf - Workshop, Global Kubernetes Operators&lt;/h3>
+&lt;h3 id="upcoming---qcon-ai---chaos-engineering-gpu-clusters">UPCOMING - Qcon AI - Chaos Engineering GPU Clusters&lt;/h3>
 &lt;ul>
-&lt;li>Who: &lt;a href="https://craft-conf.com/2025/speaker/bryan-oliver">craft-conf&lt;/a>&lt;/li>
-&lt;li>When: May 29-30, 2025&lt;/li>
-&lt;li>Audience Size: 100&lt;/li>
-&lt;li>Where: Budapest, Hungary&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>2 hour workshop on distributed kubernetes operator patterns&lt;/li>
+&lt;li>Who: &lt;a href="https://ai.qconferences.com/speakers/bryanoliver">Qcon AI&lt;/a>&lt;/li>
+&lt;li>When: December 16-17, 2025&lt;/li>
+&lt;li>Audience Size: 1000s?&lt;/li>
+&lt;li>Where: New York&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="https://olivercodes.com/craft.jpeg" alt="/craft.jpeg">&lt;/p>
-&lt;h3 id="platmosphere---hubris">Platmosphere - Hubris&lt;/h3>
+&lt;h3 id="upcoming---qcon-san-francisco---platform-engineering-in-2025-factoring-ai-into-every-component-of-the-platform">UPCOMING - Qcon San Francisco - Platform Engineering in 2025, Factoring AI Into Every Component of the Platform&lt;/h3>
 &lt;ul>
-&lt;li>Who: &lt;a href="https://platmosphere.com">Platmosphere&lt;/a>&lt;/li>
-&lt;li>When: May 20, 2025&lt;/li>
-&lt;li>Audience Size: 100&lt;/li>
-&lt;li>Where: Milan, Italy&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>First non-technical talk.&lt;/li>
-&lt;li>A critical focus on Hubris in engineering.&lt;/li>
+&lt;li>Who: &lt;a href="%5Bhttps://qconsf.com/%5D(https://qconsf.com/speakers/bryanoliver)">Qcon SF&lt;/a>&lt;/li>
+&lt;li>When: November 17-21, 2025&lt;/li>
+&lt;li>Audience Size: 1000s?&lt;/li>
+&lt;li>Where: San Francisco&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="https://olivercodes.com/platmosphere.jpg" alt="/platmosphere.jpg">&lt;/p>
-&lt;h3 id="codecamp_festival---the-journey-to-platform-engineering-in-2024">Codecamp_Festival - The Journey to Platform Engineering in 2024&lt;/h3>
+&lt;h3 id="dev2next---chaos-engineering-really-big-gpus">Dev2Next - Chaos Engineering Really Big GPUs&lt;/h3>
 &lt;ul>
-&lt;li>Who: &lt;a href="https://codecamp.ro/speakers/bryan-oliver/">Codecamp Festival Romania&lt;/a>&lt;/li>
-&lt;li>When: October 22-24, 2024&lt;/li>
+&lt;li>Who: &lt;a href="https://www.dev2next.com">dev2next&lt;/a>&lt;/li>
+&lt;li>When: Sept 29 - Oct 2, 2025&lt;/li>
 &lt;li>Audience Size: 200&lt;/li>
-&lt;li>Where: Iasi, Romania&lt;/li>
+&lt;li>Where: Colorado Springs&lt;/li>
 &lt;li>Notes:
 &lt;ul>
-&lt;li>Speaking equally among the likes of James Lewis, Tariq King, Iris Classon, Kevlin Henney, Adam Tornhill, Neal Ford, and others&amp;hellip;is a very humbling honor.&lt;/li>
-&lt;li>There&amp;rsquo;s supposedly a video coming, but still waiting&lt;/li>
+&lt;li>Really low-level deep dive on large scale gpu clusters and schedulers&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="jfrog-swampup---verifying-artifacts-and-cves-at-the-change-boundary">Jfrog Swampup - Verifying Artifacts and CVEs at the Change Boundary&lt;/h3>
+&lt;h3 id="dev2next---designing-cloud-native-delivery-systems">Dev2Next - Designing Cloud Native Delivery Systems&lt;/h3>
 &lt;ul>
-&lt;li>Who: &lt;a href="https://swampup.jfrog.com">Jfrog Swampup&lt;/a>&lt;/li>
-&lt;li>When: September 9-11&lt;/li>
-&lt;li>Audience Size: 500&lt;/li>
-&lt;li>Where: Austin, Texas&lt;/li>
+&lt;li>Who: &lt;a href="https://www.dev2next.com">dev2next&lt;/a>&lt;/li>
+&lt;li>When: Sept 29 - Oct 2, 2025&lt;/li>
+&lt;li>Audience Size: 200&lt;/li>
+&lt;li>Where: Colorado Springs&lt;/li>
 &lt;li>Notes:
 &lt;ul>
-&lt;li>Really fun talk&lt;/li>
-&lt;li>No recording sadly, I&amp;rsquo;m going to do an encore of this talk with all of Thoughtworks and record it.&lt;/li>
+&lt;li>Focused on the scheduler and delivery patterns in my O&amp;rsquo;Reilly book&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="kubecon-eu-platform-engineering-day---beyond-platform-engineering-at-ritchie-bros">Kubecon EU, Platform Engineering Day - Beyond Platform Engineering at Ritchie Bros&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://kccnceu2024.sched.com/?iframe=no">Kubecon EU&lt;/a>&lt;/li>
-&lt;li>When: March 19-22, 2024&lt;/li>
-&lt;li>Audience Size: 800&lt;/li>
-&lt;li>Where: Paris, France&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>So many questions at the end!!! Watch the Q/A&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rkteV6Mzjfs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="humanitec-webinar---how-enterprises-drive-successful-platform-engineering-initiatives">Humanitec Webinar - How enterprises drive successful platform engineering initiatives&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://www.youtube.com/@humanitec">https://www.youtube.com/@humanitec&lt;/a>&lt;/li>
-&lt;li>When: April 19, 2024&lt;/li>
-&lt;li>Audience Size: 100&lt;/li>
-&lt;li>Where: Webinar&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>I&amp;rsquo;m not on the thumbnail image because I filled in for another speaker. It went so well I&amp;rsquo;ve been asked to come back, my schedule permitting.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UGHmImbXbbI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="kubeday-singapore-december-12-2023---multi-region-multi-primary-and-eventually-consistent-youre-crazy">Kubeday Singapore, December 12 2023 - Multi-Region, Multi-Primary, and Eventually Consistent? You&amp;rsquo;re Crazy&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://events.linuxfoundation.org/kubeday-singapore/">Kubeday Singapore&lt;/a>&lt;/li>
-&lt;li>When: Decemnber 12, 2023&lt;/li>
-&lt;li>Audience Size: 200-400&lt;/li>
-&lt;li>Where: Singapore&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Rated one of the best talks of the conference&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/e4vHy7Y-PFc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="cdcon-japan-december-4-2023---cloud-native-delivery-patterns">CDCon Japan, December 4 2023 - Cloud Native Delivery Patterns&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://cd.foundation/cdcon-japan-2023">CDCon Japan&lt;/a>&lt;/li>
-&lt;li>When: Decemnber 4, 2023&lt;/li>
-&lt;li>Where: Tokyo, Japan&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Not recorded&lt;/li>
-&lt;li>First time I&amp;rsquo;ve publicy said I&amp;rsquo;m writing a book with O&amp;rsquo;Reilly on this topic&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="keynote-cdcongitopscon-2023---compliance-at-the-point-of-change-security-and-developer-independence">KEYNOTE! CDCon+GitopsCon 2023 - Compliance at the Point of Change: Security and Developer Independence&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://events.linuxfoundation.org/cdcon-gitopscon/">CDCon+GitopsCon, Vancouver 2023&lt;/a>&lt;/li>
-&lt;li>When: May 8-9, 2023&lt;/li>
-&lt;li>Audience Size: 500&lt;/li>
-&lt;li>Where: Vancouver, British Columbia, Canada&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Dual Keynote presentation with &lt;a href="https://www.linkedin.com/in/niccheneweth/">Nic Cheneweth, Thoughtworks&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Vo8VCABNc24?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="cdcongitopscon-2023---flux-at-the-point-of-change---using-the-k8s-golang-sdk-and-the-flux-api-to-automatically-fix-and-deploy-cves">CDCon+GitopsCon 2023 - Flux at the Point of Change - Using the K8s Golang SDK and the Flux Api to Automatically Fix and Deploy CVEs&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://events.linuxfoundation.org/cdcon-gitopscon/">CDCon+GitopsCon, Vancouver 2023&lt;/a>&lt;/li>
-&lt;li>When: May 8-9, 2023&lt;/li>
-&lt;li>Audience Size: 100&lt;/li>
-&lt;li>Where: Vancouver, British Columbia, Canada&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Follow up example presentation, compliments keynote&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/TEeZ1gYWwrw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="codefreeze-2023---walled-garden-a-practical-guide-to-0-trust-kubernetes">Codefreeze 2023 - Walled Garden, a Practical Guide to 0-Trust Kubernetes&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://cse.umn.edu/umsec/events/code-freeze-2023-tech-resilience">Codefreeze 2023, University of Minnesota&lt;/a>&lt;/li>
-&lt;li>When: January 11-13, 2023&lt;/li>
-&lt;li>Audience Size: 100&lt;/li>
-&lt;li>Where: Minneapolis, MN&lt;/li>
-&lt;li>Slides: &lt;a href="https://docs.google.com/presentation/d/1n3H-qAtEUgIBbYT1mXD6Cmw6V1KAZTkipwfONgvFGe4/edit#slide=id.ge0d2666f43_2_202">https://docs.google.com/presentation/d/1n3H-qAtEUgIBbYT1mXD6Cmw6V1KAZTkipwfONgvFGe4/edit#slide=id.ge0d2666f43_2_202&lt;/a>&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Dual presentation with &lt;a href="https://www.linkedin.com/in/seanpalvarez/">Sean Alvarez, Thoughtworks&lt;/a>&lt;/li>
-&lt;li>Workshop style presentation, we went through close to a dozen live demos and exercises with audience members&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="refactrtech-2022---cloud-native-delivery-patterns">Refactr.tech 2022 - Cloud Native Delivery Patterns&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://www.refactr.tech/speakers/bryan-oliver">Refactr.tech 2022&lt;/a>&lt;/li>
-&lt;li>When: Sept 14-16, 2022&lt;/li>
-&lt;li>Crowd/Attendees: 200+&lt;/li>
-&lt;li>Where: Atlanta, GA&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wdti2dBfsn8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="gitopsdays-2022---scaling-flux-to-hundreds-of-developers-invited-to-give-the-talk-again">Gitopsdays 2022 - Scaling Flux to Hundreds of Developers (invited to give the talk again)&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://www.gitopsdays.com/speaker/bryan-oliver">Gitopsdays 2022&lt;/a>&lt;/li>
-&lt;li>When: June 8-9, 2022&lt;/li>
-&lt;li>Crowd/Attendees: 200+&lt;/li>
-&lt;li>Where: Online, Streamed&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Dual presentation with Kingdon Barrett (&lt;a href="github.com/kingdonb">github.com/kingdonb&lt;/a>) from Weaveworks&lt;/li>
-&lt;li>Our section is at 7:26:50&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ajnVmpyIoeU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="devopsdays-birmingham---scaling-flux-to-hundreds-of-developers">Devopsdays Birmingham - Scaling Flux to Hundreds of Developers&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://devopsdays.org/events/2022-birmingham-al/speakers/bryan-oliver">Devopsdays Birmingham, 2022&lt;/a>&lt;/li>
-&lt;li>When: April 18 - 19, 2022&lt;/li>
-&lt;li>Crowd/Attendees: 300&lt;/li>
-&lt;li>Where: Birmingham, Alabama&lt;/li>
-&lt;li>Slides: &lt;a href="https://docs.google.com/presentation/d/1E9emmQx0K0hBaemcukafwTV8JGsjwuIKWGnIS2dQK30/edit?usp=sharing">dod-bham-gslides&lt;/a>&lt;/li>
-&lt;li>Note: Dual presentation with Kingdon Barrett (&lt;a href="github.com/kingdonb">github.com/kingdonb&lt;/a>) from Weaveworks&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/G8cUcyGD5j4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="sloconf-monthly---from-nfrs-to-slos">SloConf Monthly - From NFRs to SLOs&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://www.meetup.com/sloconf-monthly">SLOConf Monthly&lt;/a> (previously BeyondSeattle SRE)&lt;/li>
-&lt;li>When: June 23, 2021&lt;/li>
-&lt;li>Crowd/Attendees: 70+&lt;/li>
-&lt;li>Where: Remote&lt;/li>
-&lt;li>Slides: &lt;a href="https://docs.google.com/presentation/d/1Vju_McGfIdADNHOXWqfd7o0FA3ERlrWrTkeB_dZdHDc/edit?usp=sharing">nfr-to-slo&lt;/a>&lt;/li>
-&lt;li>Note: My presentation starts at 34:13. However, if you have the time Keri&amp;rsquo;s talk at the beginning is wonderful.&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2nOmP3eSxGI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="atlanta-javascript---angular-universal-and-overview-of-server-side-rendering">Atlanta Javascript - Angular Universal and overview of Server Side Rendering&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://www.meetup.com/sloconf-monthly">Atlanta JavaScript&lt;/a> (previously BeyondSeattle SRE)&lt;/li>
-&lt;li>When: Aug 15, 2016&lt;/li>
-&lt;li>Crowd/Attendees: 100+&lt;/li>
-&lt;li>Where: Huge Inc. HQ, Atlanta&lt;/li>
-&lt;li>Slides: n/a&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>This was a lightning talk party, hence why the presentation was kept to 10 minutes.&lt;/li>
-&lt;li>The github link I give at the end is my old handle, and is no longer my gh username.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
- &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/QHmLZ3ngDMM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
- &lt;/div>
-
-&lt;h3 id="general-assembly---buildit-angular--ionic-workshop">General Assembly - Buildit Angular &amp;amp; Ionic Workshop&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="">General Assembly&lt;/a>&lt;/li>
-&lt;li>Where: General Assembly Atlanta&lt;/li>
-&lt;li>Slides: n/a&lt;/li>
-&lt;li>Info:
-&lt;ul>
-&lt;li>&lt;a href="https://generalassemb.ly/instructors/bryan-oliver/6497">https://generalassemb.ly/instructors/bryan-oliver/6497&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://generalassemb.ly/education/build-it-angular-ionic-a-hands-on-workshop">https://generalassemb.ly/education/build-it-angular-ionic-a-hands-on-workshop&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="google-developer-group-gdg--women-techmakers-atlanta">Google Developer Group (GDG) &amp;amp; Women Techmakers Atlanta&lt;/h2>
-&lt;h3 id="mvp-model-view-presenter-examples-in-angular--typescript">MVP (Model-View-Presenter), examples in Angular + Typescript&lt;/h3>
-&lt;ul>
-&lt;li>Who: &lt;a href="https://gdg.community.dev/events/details/google-gdg-atlanta-presents-women-techmakers-mvp-model-view-presenter-examples-in-angular-typescript/">Women Techmakers &amp;amp; GDG&lt;/a>&lt;/li>
-&lt;li>When: Jan 23, 2019&lt;/li>
-&lt;li>Crowd/Attendees: 25+&lt;/li>
-&lt;li>Where: Terminus Atlanta&lt;/li>
-&lt;li>Slides: n/a&lt;/li>
-&lt;li>Notes:
-&lt;ul>
-&lt;li>Looking for the old deck. TODO&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description></item><item><title>My Bookshelf</title><link>https://olivercodes.com/bookshelf/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/bookshelf/</guid><description>&lt;h2 id="my-bookshelf">My Bookshelf&lt;/h2>
+&lt;p>&lt;img src="https://olivercodes.com/craft.jpeg" alt="/craft.jpeg">&lt;/p></description></item><item><title>My Bookshelf</title><link>https://olivercodes.com/bookshelf/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://olivercodes.com/bookshelf/</guid><description>&lt;h2 id="my-bookshelf">My Bookshelf&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">Clean Architecture&lt;/a>&lt;/p>
