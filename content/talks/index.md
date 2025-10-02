@@ -41,8 +41,6 @@ lightgallery: true
 - Notes:
   - Focused on the scheduler and delivery patterns in my O'Reilly book
 
-![/craft.jpeg](/craft.jpeg)
-
 ### craft-conf - Workshop, Global Kubernetes Operators
 - Who: [craft-conf](https://craft-conf.com/2025/speaker/bryan-oliver)
 - When: May 29-30, 2025
