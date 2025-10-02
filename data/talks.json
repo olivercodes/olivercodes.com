@@ -1,6 +1,16 @@
 {
   "list": [
     {
+      "name": "Dev2Next, Colorado Springs",
+      "url": "https://dev2next.com",
+      "desc": "Designing Cloud Native Delivery Systems"
+    },
+    {
+      "name": "Dev2Next, Colorado Springs",
+      "url": "https://dev2next.com",
+      "desc": "Chaos Engineering Really Big GPUs"
+    },
+    {
       "name": "craft-conf, Budapest",
       "url": "https://craft-conf.com/2025/speaker/bryan-oliver",
       "desc": "Workshop on k8s operators"
