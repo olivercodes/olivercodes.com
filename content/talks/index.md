@@ -13,6 +13,36 @@ resources:
 lightgallery: true
 ---
 ## My Talks
+### UPCOMING - Qcon AI - Chaos Engineering GPU Clusters
+- Who: [Qcon AI](https://ai.qconferences.com/speakers/bryanoliver)
+- When: December 16-17, 2025
+- Audience Size: 1000s?
+- Where: New York
+
+### UPCOMING - Qcon San Francisco - Platform Engineering in 2025, Factoring AI Into Every Component of the Platform
+- Who: [Qcon SF]([https://qconsf.com/](https://qconsf.com/speakers/bryanoliver))
+- When: November 17-21, 2025
+- Audience Size: 1000s?
+- Where: San Francisco
+
+### Dev2Next - Chaos Engineering Really Big GPUs
+- Who: [dev2next](https://www.dev2next.com)
+- When: Sept 29 - Oct 2, 2025
+- Audience Size: 200
+- Where: Colorado Springs
+- Notes:
+  - Really low-level deep dive on large scale gpu clusters and schedulers
+ 
+### Dev2Next - Designing Cloud Native Delivery Systems
+- Who: [dev2next](https://www.dev2next.com)
+- When: Sept 29 - Oct 2, 2025
+- Audience Size: 200
+- Where: Colorado Springs
+- Notes:
+  - Focused on the scheduler and delivery patterns in my O'Reilly book
+
+![/craft.jpeg](/craft.jpeg)
+
 ### craft-conf - Workshop, Global Kubernetes Operators
 - Who: [craft-conf](https://craft-conf.com/2025/speaker/bryan-oliver)
 - When: May 29-30, 2025
