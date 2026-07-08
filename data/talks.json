@@ -1,6 +1,26 @@
 {
   "list": [
     {
+      "name": "O'Reilly Workshops",
+      "url": "https://www.oreilly.com/live-events/getting-started-with-ai-infrastructure-and-gpu-computing/0642572340841",
+      "desc": "Getting Started with AI Infrastructure and GPU Computing - RECURRING WORKSHOP"
+    },
+    {
+      "name": "Platform Engineering (platformengineering.org)",
+      "url": "https://university.platformengineering.org/platform-engineering-certified-architect-june-2026",
+      "desc": "Platform Engineering Certified Architect - RECURRING WORKSHOP"
+    },
+    {
+      "name": "Qcon AI",
+      "url": "https://ai.qconferences.com/speakers/bryanoliver",
+      "desc": "Chaos Engineering GPU Clusters"
+    },
+    {
+      "name": "QCon San Francisco",
+      "url": "https://qconsf.com/speakers/bryanoliver",
+      "desc": "Platform Engineering in 2025, Factoring AI Into Every Component of the Platform"
+    },
+    {
       "name": "Dev2Next, Colorado Springs",
       "url": "https://dev2next.com",
       "desc": "Designing Cloud Native Delivery Systems"
