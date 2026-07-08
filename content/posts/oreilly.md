@@ -16,6 +16,13 @@ resources:
 
 lightgallery: true
 ---
+## UPDATE
+
+In the Age of AI, writing a book on Cloud Native Delivery Systems quickly became, sadly, an irrelevant topic. Cloud Native itself, is still a relevant and thriving ecosystem. But interest in it in Book form has declined dramatically.
+
+Nic, myself, and O'Reilly discussed at length whether we should refactor or reframe the scope of the book. We concluded together, however, that our time would be better spent designing online content (like this workshop https://www.oreilly.com/live-events/getting-started-with-ai-infrastructure-and-gpu-computing/0642572340841/). We are still in discussions to potentially come back to a book effort in the future, but we are in no rush to do so as the online workshops are proving to be incredibly successful (the first iteration of my AI Infra intro in July had 800+ signups).
+
+We have been approached by additional publishers on similar topics, as well as AI Infra as it relates to Cloud Native, but have decided to decline them, and instead we are going to wait and see where the industry lands, before committing to the extremely significant effort of book-writing. 
 
 Summary:
 Engaged in a contract with O'Reilly publishers to write a book on Cloud Native Delivery Systems. Note, I don't recommend working on 2 books at the same time! Description (O'Reilly provided ER Copy) below.
