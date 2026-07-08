@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "name": "Kueue Lab",
+      "url": "https://github.com/olivercodes/kueue-lab",
+      "desc": "Local Kind Cluster Kueue Lab to demonstrate topology aware scheduling"
+    },
+    {
       "name":"img updater bot",
       "url":"https://github.com/olivercodes/img-updater-bot",
       "desc":"Dockerfile image layer updater for security patching"
