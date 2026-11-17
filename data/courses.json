@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "name": "Getting Started with AI Infrastructure and GPU Computing",
+      "url": "https://www.oreilly.com/live-events/getting-started-with-ai-infrastructure-and-gpu-computing/0642572340841/",
+      "desc": "O'Reilly live course - RECURRING"
+    },
+    {
+      "name": "Optimizing Your AI Workload Scheduler",
+      "url": "https://www.oreilly.com/search/?q=bryan%20oliver&rows=50",
+      "desc": "O'Reilly live course - managing GPU workload scheduling to decrease infrastructure costs"
+    },
+    {
+      "name": "Infrastructure & Ops Superstream: Infrastructure for AI",
+      "url": "https://www.oreilly.com/live-events/infrastructure-ops-superstream-infrastructure-for-ai/0642572273941/",
+      "desc": "O'Reilly Superstream - An Introduction to AI Infrastructure"
+    },
+    {
+      "name": "Effective Platform Engineering, Video Edition",
+      "url": "https://www.oreilly.com/videos/effective-platform-engineering/9781633436497VE/",
+      "desc": "O'Reilly video edition of the Manning book"
+    },
+    {
+      "name": "Platform Engineering Certified Architect",
+      "url": "https://university.platformengineering.org/platform-engineering-certified-architect-june-2026",
+      "desc": "platformengineering.org - RECURRING"
+    }
+  ]
+}

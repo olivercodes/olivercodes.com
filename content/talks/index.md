@@ -13,6 +13,14 @@ resources:
 lightgallery: true
 ---
 ## My Talks
+### craft-conf 2026 - An Introduction to Infrastructure for AI
+- Who: [craft-conf](https://craft-conf.com/2026/talks)
+- When: June 4, 2026, 16:55 - 17:40 CET (Yellow Stage)
+- Where: Budapest, Hungary
+- Notes:
+  - A detailed look at AI infrastructure and the nuances it presents to modern-day engineers
+  - How deploying and managing software on GPU platforms differs from the distributed systems most engineers are used to, and how to do it efficiently and cost effectively
+
 ### UPCOMING - Qcon AI - Chaos Engineering GPU Clusters
 - Who: [Qcon AI](https://ai.qconferences.com/speakers/bryanoliver)
 - When: December 16-17, 2025

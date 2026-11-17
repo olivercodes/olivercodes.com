@@ -37,10 +37,38 @@
   {{ partial "optional-about.html" . }}
   </section>
 
-  <div style="display: flex; gap: 10px;">
-    <img src="manning.png" style="width: 30%; height: auto;" alt="manning cover">
-    <img src="oreilly.jpeg" style="width: 30%; height: auto;" alt="oreilly cover">
-  </div>
+  <section id="books">
+    <span class="h1">Books</span>
+    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+      <a href="https://www.manning.com/books/effective-platform-engineering" style="width: 30%;">
+        <img src="manning.png" style="width: 100%; height: auto;" alt="Effective Platform Engineering cover (Manning)">
+      </a>
+      <div style="width: 30%;">
+        <img src="ai-infra-in-action.svg" style="width: 100%; height: auto;" alt="AI Infrastructure in Action placeholder cover (Manning, upcoming)">
+      </div>
+    </div>
+    <ul class="project-list">
+      <li class="project-item">
+        <a href="https://www.manning.com/books/effective-platform-engineering">Effective Platform Engineering</a>: Manning
+      </li>
+      <li class="project-item">
+        AI Infrastructure in Action: Manning - UPCOMING
+      </li>
+    </ul>
+  </section>
+
+  {{ with .Site.Data.courses }}
+  <section id="courses">
+    <span class="h1">Courses</span>
+    <ul class="project-list">
+        {{ range .list }}
+        <li class="project-item">
+          <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+        </li>
+        {{ end }}
+    </ul>
+  </section>
+  {{ end }}
 
   {{ $showTalksList := false }}
   {{ if (isset .Site.Params "showTalksList") }}

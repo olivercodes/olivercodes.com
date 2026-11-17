@@ -11,6 +11,11 @@
       "desc": "Platform Engineering Certified Architect - RECURRING WORKSHOP"
     },
     {
+      "name": "craft-conf 2026, Budapest",
+      "url": "https://craft-conf.com/2026/talks",
+      "desc": "An Introduction to Infrastructure for AI"
+    },
+    {
       "name": "Qcon AI",
       "url": "https://ai.qconferences.com/speakers/bryanoliver",
       "desc": "Chaos Engineering GPU Clusters"
