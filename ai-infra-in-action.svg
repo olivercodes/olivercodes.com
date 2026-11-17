@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 403 506" width="403" height="506" role="img" aria-label="AI Infrastructure in Action, Manning, placeholder cover">
+  <rect width="403" height="506" fill="#ffffff"/>
+  <!-- title band -->
+  <rect x="0" y="0" width="403" height="150" fill="#ffffff"/>
+  <text x="28" y="62" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1a1a1a">AI Infrastructure</text>
+  <text x="28" y="100" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1a1a1a">in Action</text>
+  <rect x="28" y="116" width="64" height="4" fill="#b5172b"/>
+  <text x="28" y="142" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#444">Bryan Oliver</text>
+  <!-- illustration placeholder -->
+  <rect x="28" y="162" width="347" height="282" fill="#f2efe9" stroke="#d8d2c6" stroke-width="1"/>
+  <g stroke="#cfc6b6" stroke-width="1" fill="none">
+    <path d="M28 162 L375 444 M375 162 L28 444"/>
+  </g>
+  <rect x="96" y="276" width="211" height="54" fill="#f2efe9"/>
+  <text x="201.5" y="299" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-style="italic" fill="#6b6457">Cover art</text>
+  <text x="201.5" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-style="italic" fill="#6b6457">coming soon</text>
+  <!-- publisher wordmark -->
+  <text x="201.5" y="484" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6" fill="#b5172b">MANNING</text>
+</svg>

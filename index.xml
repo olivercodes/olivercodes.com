@@ -14,6 +14,18 @@ Expected Print date: ~September&lt;/p></description></item><item><title>O'Reilly
 What sort of shape will it be? Who is the intended audience? What colors will we offer? Is it customizable? Is it heavy or light? All of these details factor in to the
 user interface of the mouse, and how it will be used by the customer. The underlying details of the mouse, are developed after the initial interface
 and design phase.&lt;/p></description></item><item><title>Public Presentations and Videos</title><link>https://olivercodes.com/talks/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://olivercodes.com/talks/</guid><description>&lt;h2 id="my-talks">My Talks&lt;/h2>
+&lt;h3 id="craft-conf-2026---an-introduction-to-infrastructure-for-ai">craft-conf 2026 - An Introduction to Infrastructure for AI&lt;/h3>
+&lt;ul>
+&lt;li>Who: &lt;a href="https://craft-conf.com/2026/talks">craft-conf&lt;/a>&lt;/li>
+&lt;li>When: June 4, 2026, 16:55 - 17:40 CET (Yellow Stage)&lt;/li>
+&lt;li>Where: Budapest, Hungary&lt;/li>
+&lt;li>Notes:
+&lt;ul>
+&lt;li>A detailed look at AI infrastructure and the nuances it presents to modern-day engineers&lt;/li>
+&lt;li>How deploying and managing software on GPU platforms differs from the distributed systems most engineers are used to, and how to do it efficiently and cost effectively&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;h3 id="upcoming---qcon-ai---chaos-engineering-gpu-clusters">UPCOMING - Qcon AI - Chaos Engineering GPU Clusters&lt;/h3>
 &lt;ul>
 &lt;li>Who: &lt;a href="https://ai.qconferences.com/speakers/bryanoliver">Qcon AI&lt;/a>&lt;/li>
