@@ -14,6 +14,12 @@
   <rect x="96" y="276" width="211" height="54" fill="#f2efe9"/>
   <text x="201.5" y="299" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-style="italic" fill="#6b6457">Cover art</text>
   <text x="201.5" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-style="italic" fill="#6b6457">coming soon</text>
-  <!-- publisher wordmark -->
-  <text x="201.5" y="484" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6" fill="#b5172b">MANNING</text>
+  <!-- publisher logo: mark + wordmark -->
+  <g fill="#b5172b">
+    <g transform="translate(130.5,460)">
+      <rect x="0" y="2" width="2.4" height="24"/>
+      <path d="M4.2 0 H36 V26 H21.6 V3.2 H19.4 V26 H4.2 Z"/>
+    </g>
+    <text x="177" y="485.5" font-family="'Avenir Next Condensed', 'Roboto Condensed', 'Arial Narrow', Helvetica, sans-serif" font-size="14" font-weight="600" textLength="94" lengthAdjust="spacing">MANNING</text>
+  </g>
 </svg>
